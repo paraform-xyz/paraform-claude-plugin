@@ -1,0 +1,14 @@
+{
+  "name": "paraform",
+  "description": "Work your Paraform roles, candidates and hiring from your AI assistant. Get answers from your Paraform account, in plain language.",
+  "owner": {
+    "name": "Paraform",
+    "email": "team@paraform.com"
+  },
+  "plugins": [
+    {
+      "name": "paraform",
+      "source": "./"
+    }
+  ]
+}

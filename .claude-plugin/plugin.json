@@ -1,0 +1,27 @@
+{
+  "name": "paraform",
+  "displayName": "Paraform",
+  "version": "1.0.0",
+  "description": "Work your Paraform roles, candidates and hiring from your AI assistant. Get answers from your Paraform account, in plain language.",
+  "author": {
+    "name": "Paraform",
+    "email": "team@paraform.com",
+    "url": "https://www.paraform.com"
+  },
+  "homepage": "https://www.paraform.com",
+  "license": "UNLICENSED",
+  "keywords": [
+    "recruiting",
+    "hiring",
+    "recruiters",
+    "candidates",
+    "roles",
+    "paraform",
+    "talent"
+  ],
+  "icon": "./assets/logo.png",
+  "documentationUrl": "https://docs.paraform.com/mcp/overview",
+  "supportUrl": "https://knowledge.paraform.com",
+  "privacyPolicyUrl": "https://www.paraform.com/privacy-policy",
+  "termsOfServiceUrl": "https://www.paraform.com/terms-of-use"
+}
