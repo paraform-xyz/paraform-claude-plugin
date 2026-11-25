@@ -10,7 +10,13 @@ Claude acts as you. It sees only what your Paraform account can see and does onl
 
 ## Get started
 
-Install the plugin, then sign in with your Paraform account when asked. Try:
+Install the plugin, then sign in with your Paraform account when asked:
+
+```
+/plugin install paraform --marketplace paraform-xyz/paraform-claude-plugin
+```
+
+Try:
 
 - What should I focus on in Paraform today?
 - Which roles fit my newest candidate?

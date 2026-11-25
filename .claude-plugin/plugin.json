@@ -9,6 +9,7 @@
     "url": "https://www.paraform.com"
   },
   "homepage": "https://www.paraform.com",
+  "repository": "https://github.com/paraform-xyz/paraform-claude-plugin",
   "license": "UNLICENSED",
   "keywords": [
     "recruiting",
