@@ -22,6 +22,10 @@ Try:
 - Which roles fit my newest candidate?
 - Which candidates are waiting on my review?
 
+## Data and privacy
+
+Requests run through your Paraform account. Some skills send data to service providers Paraform uses to complete the request. Paraform handles that data as described in its privacy policy: https://www.paraform.com/privacy-policy
+
 ## Links
 
 - Docs: https://docs.paraform.com/mcp/overview
